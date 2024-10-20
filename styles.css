@@ -298,7 +298,6 @@ body {
 .image img {
     width: 100%;
     max-width: 500px;
-    min-width: 350px;
     height: 450px;
     border-radius: 10px;
 }
