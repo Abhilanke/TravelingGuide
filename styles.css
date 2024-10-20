@@ -148,8 +148,8 @@
   
   @media (max-width: 768px) {
       .navbar {
-        height: 50px; /* Adjust navbar height for mobile */
-        padding: 0 10px; /* Adjust padding */
+          width: 100%;
+       
       }
     .nav-links {
       display: none;
