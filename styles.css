@@ -147,6 +147,10 @@
   }
   
   @media (max-width: 768px) {
+      .navbar {
+        height: 50px; /* Adjust navbar height for mobile */
+        padding: 0 10px; /* Adjust padding */
+      }
     .nav-links {
       display: none;
       flex-direction: column;
