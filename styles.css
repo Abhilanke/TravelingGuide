@@ -188,7 +188,7 @@
   /* Hero Section */
 .hero {
     background-image: url(./img/bg-hero.jpg); /* Replace with your image URL */
-   
+   background-repeat: no-repeat;
     background-position: center;
     height: 100vh; /* Full-screen height */
     position: relative;
